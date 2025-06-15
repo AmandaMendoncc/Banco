@@ -1,0 +1,26 @@
+﻿@model Banco.Models.ViewModels.LoanViewModel
+@{
+    ViewData["Title"] = "Solicitar Empréstimo";
+}
+
+<div class="row justify-content-center">
+    <div class="col-md-6">
+        <h2>@ViewData["Title"]</h2>
+        <p>Preencha os dados abaixo para solicitar seu empréstimo pessoal.</p>
+        <form asp-action="Solicitar" method="post">
+            <hr />
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-floating mb-3">
+                <input asp-for="ValorSolicitado" class="form-control" />
+                <label asp-for="ValorSolicitado"></label>
+                <span asp-validation-for="ValorSolicitado" class="text-danger"></span>
+            </div>
+            <div class="form-floating mb-3">
+                <input asp-for="Parcelas" class="form-control" />
+                <label asp-for="Parcelas"></label>
+                <span asp-validation-for="Parcelas" class="text-danger"></span>
+            </div>
+            <button type="submit" class="w-100 btn btn-lg btn-success">Enviar Solicitação</button>
+        </form>
+    </div>
+</div>

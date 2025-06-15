@@ -1,0 +1,39 @@
+﻿@{
+    ViewData["Title"] = "Registro Concluído";
+}
+@using System.Text.Encodings.Web
+
+<h2 class="text-success">@ViewData["Title"]!</h2>
+
+<div class="alert alert-info">
+    <h4>Configure seu Aplicativo de Autenticação</h4>
+    <p>Para concluir seu login, escaneie o QR Code abaixo com seu aplicativo de autenticação (Google Authenticator, Microsoft Authenticator, etc.) ou insira a chave manualmente.</p>
+</div>
+
+<div class="row">
+    <div class="col-md-6">
+        <h5>QR Code</h5>
+        <div id="qr-code"></div>
+    </div>
+    <div class="col-md-6">
+        <h5>Chave Manual</h5>
+        <p>Se não puder escanear o código, insira esta chave em seu aplicativo:</p>
+        <p><strong>@ViewBag.OtpSecretKey</strong></p>
+    </div>
+</div>
+
+<div class="mt-4">
+    <p>Após configurar, você pode fazer o login.</p>
+    <a class="btn btn-primary" asp-controller="Account" asp-action="Login">Ir para a página de Login</a>
+</div>
+
+@section Scripts {
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+    <script type="text/javascript">
+        new QRCode(document.getElementById("qr-code"), {
+            text: "@Html.Raw(JavaScriptEncoder.Default.Encode(ViewBag.QrCodeUri))",
+            width: 200,
+            height: 200
+        });
+    </script>
+}

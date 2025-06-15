@@ -1,0 +1,23 @@
+﻿@model Banco.Models.Core.Emprestimo
+@{
+    ViewData["Title"] = "Resultado da Solicitação";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+@if (Model.Status == Banco.Models.Core.StatusEmprestimo.Aprovado)
+{
+    <div class="alert alert-success">
+        <h4>Parabéns! Sua solicitação de empréstimo foi APROVADA.</h4>
+        <p>O valor de <strong>@Model.ValorAprovado.ToString("C")</strong> será creditado em sua conta em breve.</p>
+    </div>
+}
+else
+{
+    <div class="alert alert-danger">
+        <h4>Sua solicitação de empréstimo foi REJEITADA.</h4>
+        <p>No momento, não foi possível aprovar sua solicitação. Por favor, entre em contato com seu gerente para mais detalhes.</p>
+    </div>
+}
+
+<a asp-controller="Cliente" asp-action="Dashboard" class="btn btn-primary">Voltar ao Painel</a>

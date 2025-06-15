@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Amanda_Alves\\Documents\\Faculdade\\3\u00BASemestre\\Laboratorio de Banco de Dados\\Banco\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C8DE3C-7022-4E7E-85BE-F2CFFB7FA06E}|Banco.csproj|c:\\users\\amanda_alves\\documents\\faculdade\\3\u00BAsemestre\\laboratorio de banco de dados\\banco\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B4C8DE3C-7022-4E7E-85BE-F2CFFB7FA06E}|Banco.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C8DE3C-7022-4E7E-85BE-F2CFFB7FA06E}|Banco.csproj|c:\\users\\amanda_alves\\documents\\faculdade\\3\u00BAsemestre\\laboratorio de banco de dados\\banco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C8DE3C-7022-4E7E-85BE-F2CFFB7FA06E}|Banco.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C8DE3C-7022-4E7E-85BE-F2CFFB7FA06E}|Banco.csproj|c:\\users\\amanda_alves\\documents\\faculdade\\3\u00BAsemestre\\laboratorio de banco de dados\\banco\\controllers\\emprestimocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C8DE3C-7022-4E7E-85BE-F2CFFB7FA06E}|Banco.csproj|solutionrelative:controllers\\emprestimocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C8DE3C-7022-4E7E-85BE-F2CFFB7FA06E}|Banco.csproj|c:\\users\\amanda_alves\\documents\\faculdade\\3\u00BAsemestre\\laboratorio de banco de dados\\banco\\controllers\\clientecontrolle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C8DE3C-7022-4E7E-85BE-F2CFFB7FA06E}|Banco.csproj|solutionrelative:controllers\\clientecontrolle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C8DE3C-7022-4E7E-85BE-F2CFFB7FA06E}|Banco.csproj|c:\\users\\amanda_alves\\documents\\faculdade\\3\u00BAsemestre\\laboratorio de banco de dados\\banco\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C8DE3C-7022-4E7E-85BE-F2CFFB7FA06E}|Banco.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C8DE3C-7022-4E7E-85BE-F2CFFB7FA06E}|Banco.csproj|c:\\users\\amanda_alves\\documents\\faculdade\\3\u00BAsemestre\\laboratorio de banco de dados\\banco\\data\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C8DE3C-7022-4E7E-85BE-F2CFFB7FA06E}|Banco.csproj|solutionrelative:data\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C8DE3C-7022-4E7E-85BE-F2CFFB7FA06E}|Banco.csproj|c:\\users\\amanda_alves\\documents\\faculdade\\3\u00BAsemestre\\laboratorio de banco de dados\\banco\\models\\viewmodels\\otpviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C8DE3C-7022-4E7E-85BE-F2CFFB7FA06E}|Banco.csproj|solutionrelative:models\\viewmodels\\otpviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C8DE3C-7022-4E7E-85BE-F2CFFB7FA06E}|Banco.csproj|c:\\users\\amanda_alves\\documents\\faculdade\\3\u00BAsemestre\\laboratorio de banco de dados\\banco\\models\\viewmodels\\loanviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C8DE3C-7022-4E7E-85BE-F2CFFB7FA06E}|Banco.csproj|solutionrelative:models\\viewmodels\\loanviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C8DE3C-7022-4E7E-85BE-F2CFFB7FA06E}|Banco.csproj|c:\\users\\amanda_alves\\documents\\faculdade\\3\u00BAsemestre\\laboratorio de banco de dados\\banco\\models\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C8DE3C-7022-4E7E-85BE-F2CFFB7FA06E}|Banco.csproj|solutionrelative:models\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C8DE3C-7022-4E7E-85BE-F2CFFB7FA06E}|Banco.csproj|c:\\users\\amanda_alves\\documents\\faculdade\\3\u00BAsemestre\\laboratorio de banco de dados\\banco\\models\\viewmodels\\transferviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C8DE3C-7022-4E7E-85BE-F2CFFB7FA06E}|Banco.csproj|solutionrelative:models\\viewmodels\\transferviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C8DE3C-7022-4E7E-85BE-F2CFFB7FA06E}|Banco.csproj|c:\\users\\amanda_alves\\documents\\faculdade\\3\u00BAsemestre\\laboratorio de banco de dados\\banco\\models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C8DE3C-7022-4E7E-85BE-F2CFFB7FA06E}|Banco.csproj|solutionrelative:models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C8DE3C-7022-4E7E-85BE-F2CFFB7FA06E}|Banco.csproj|c:\\users\\amanda_alves\\documents\\faculdade\\3\u00BAsemestre\\laboratorio de banco de dados\\banco\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4C8DE3C-7022-4E7E-85BE-F2CFFB7FA06E}|Banco.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C8DE3C-7022-4E7E-85BE-F2CFFB7FA06E}|Banco.csproj|c:\\users\\amanda_alves\\documents\\faculdade\\3\u00BAsemestre\\laboratorio de banco de dados\\banco\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C8DE3C-7022-4E7E-85BE-F2CFFB7FA06E}|Banco.csproj|solutionrelative:controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C8DE3C-7022-4E7E-85BE-F2CFFB7FA06E}|Banco.csproj|c:\\users\\amanda_alves\\documents\\faculdade\\3\u00BAsemestre\\laboratorio de banco de dados\\banco\\data\\services\\loanevaluationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C8DE3C-7022-4E7E-85BE-F2CFFB7FA06E}|Banco.csproj|solutionrelative:data\\services\\loanevaluationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C8DE3C-7022-4E7E-85BE-F2CFFB7FA06E}|Banco.csproj|c:\\users\\amanda_alves\\documents\\faculdade\\3\u00BAsemestre\\laboratorio de banco de dados\\banco\\banco.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B4C8DE3C-7022-4E7E-85BE-F2CFFB7FA06E}|Banco.csproj|solutionrelative:banco.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C8DE3C-7022-4E7E-85BE-F2CFFB7FA06E}|Banco.csproj|c:\\users\\amanda_alves\\documents\\faculdade\\3\u00BAsemestre\\laboratorio de banco de dados\\banco\\banco.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B4C8DE3C-7022-4E7E-85BE-F2CFFB7FA06E}|Banco.csproj|solutionrelative:banco.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C8DE3C-7022-4E7E-85BE-F2CFFB7FA06E}|Banco.csproj|c:\\users\\amanda_alves\\documents\\faculdade\\3\u00BAsemestre\\laboratorio de banco de dados\\banco\\views\\emprestimo\\solicitacaoresultado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4C8DE3C-7022-4E7E-85BE-F2CFFB7FA06E}|Banco.csproj|solutionrelative:views\\emprestimo\\solicitacaoresultado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C8DE3C-7022-4E7E-85BE-F2CFFB7FA06E}|Banco.csproj|c:\\users\\amanda_alves\\documents\\faculdade\\3\u00BAsemestre\\laboratorio de banco de dados\\banco\\views\\emprestimo\\solicitar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4C8DE3C-7022-4E7E-85BE-F2CFFB7FA06E}|Banco.csproj|solutionrelative:views\\emprestimo\\solicitar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C8DE3C-7022-4E7E-85BE-F2CFFB7FA06E}|Banco.csproj|c:\\users\\amanda_alves\\documents\\faculdade\\3\u00BAsemestre\\laboratorio de banco de dados\\banco\\views\\cliente\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4C8DE3C-7022-4E7E-85BE-F2CFFB7FA06E}|Banco.csproj|solutionrelative:views\\cliente\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Amanda_Alves\\Documents\\Faculdade\\3\u00BASemestre\\Laboratorio de Banco de Dados\\Banco\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Amanda_Alves\\Documents\\Faculdade\\3\u00BASemestre\\Laboratorio de Banco de Dados\\Banco\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-14T19:26:17.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "C:\\Users\\Amanda_Alves\\Documents\\Faculdade\\3\u00BASemestre\\Laboratorio de Banco de Dados\\Banco\\Data\\Services\\ReportService.cs",
+              "RelativeDocumentMoniker": "Data\\Services\\ReportService.cs",
+              "ToolTip": "C:\\Users\\Amanda_Alves\\Documents\\Faculdade\\3\u00BASemestre\\Laboratorio de Banco de Dados\\Banco\\Data\\Services\\ReportService.cs",
+              "RelativeToolTip": "Data\\Services\\ReportService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAIwDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T17:35:58.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Amanda_Alves\\Documents\\Faculdade\\3\u00BASemestre\\Laboratorio de Banco de Dados\\Banco\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Amanda_Alves\\Documents\\Faculdade\\3\u00BASemestre\\Laboratorio de Banco de Dados\\Banco\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T17:24:44.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Amanda_Alves\\Documents\\Faculdade\\3\u00BASemestre\\Laboratorio de Banco de Dados\\Banco\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Amanda_Alves\\Documents\\Faculdade\\3\u00BASemestre\\Laboratorio de Banco de Dados\\Banco\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAUwDUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T17:24:00.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OtpViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Amanda_Alves\\Documents\\Faculdade\\3\u00BASemestre\\Laboratorio de Banco de Dados\\Banco\\Models\\ViewModels\\OtpViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\OtpViewModel.cs",
+              "ToolTip": "C:\\Users\\Amanda_Alves\\Documents\\Faculdade\\3\u00BASemestre\\Laboratorio de Banco de Dados\\Banco\\Models\\ViewModels\\OtpViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModels\\OtpViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T17:35:02.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoanViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Amanda_Alves\\Documents\\Faculdade\\3\u00BASemestre\\Laboratorio de Banco de Dados\\Banco\\Models\\ViewModels\\LoanViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\LoanViewModel.cs",
+              "ToolTip": "C:\\Users\\Amanda_Alves\\Documents\\Faculdade\\3\u00BASemestre\\Laboratorio de Banco de Dados\\Banco\\Models\\ViewModels\\LoanViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModels\\LoanViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T17:33:41.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Amanda_Alves\\Documents\\Faculdade\\3\u00BASemestre\\Laboratorio de Banco de Dados\\Banco\\Models\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\Amanda_Alves\\Documents\\Faculdade\\3\u00BASemestre\\Laboratorio de Banco de Dados\\Banco\\Models\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T17:33:39.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmprestimoController.cs",
+              "DocumentMoniker": "C:\\Users\\Amanda_Alves\\Documents\\Faculdade\\3\u00BASemestre\\Laboratorio de Banco de Dados\\Banco\\Controllers\\EmprestimoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmprestimoController.cs",
+              "ToolTip": "C:\\Users\\Amanda_Alves\\Documents\\Faculdade\\3\u00BASemestre\\Laboratorio de Banco de Dados\\Banco\\Controllers\\EmprestimoController.cs",
+              "RelativeToolTip": "Controllers\\EmprestimoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T17:25:36.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClienteControlle.cs",
+              "DocumentMoniker": "C:\\Users\\Amanda_Alves\\Documents\\Faculdade\\3\u00BASemestre\\Laboratorio de Banco de Dados\\Banco\\Controllers\\ClienteControlle.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClienteControlle.cs",
+              "ToolTip": "C:\\Users\\Amanda_Alves\\Documents\\Faculdade\\3\u00BASemestre\\Laboratorio de Banco de Dados\\Banco\\Controllers\\ClienteControlle.cs",
+              "RelativeToolTip": "Controllers\\ClienteControlle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T19:17:31.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TransferViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Amanda_Alves\\Documents\\Faculdade\\3\u00BASemestre\\Laboratorio de Banco de Dados\\Banco\\Models\\ViewModels\\TransferViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\TransferViewModel.cs",
+              "ToolTip": "C:\\Users\\Amanda_Alves\\Documents\\Faculdade\\3\u00BASemestre\\Laboratorio de Banco de Dados\\Banco\\Models\\ViewModels\\TransferViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModels\\TransferViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T17:33:43.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Amanda_Alves\\Documents\\Faculdade\\3\u00BASemestre\\Laboratorio de Banco de Dados\\Banco\\Models\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Amanda_Alves\\Documents\\Faculdade\\3\u00BASemestre\\Laboratorio de Banco de Dados\\Banco\\Models\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T17:33:03.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Amanda_Alves\\Documents\\Faculdade\\3\u00BASemestre\\Laboratorio de Banco de Dados\\Banco\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Amanda_Alves\\Documents\\Faculdade\\3\u00BASemestre\\Laboratorio de Banco de Dados\\Banco\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T17:28:21.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FuncionarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Amanda_Alves\\Documents\\Faculdade\\3\u00BASemestre\\Laboratorio de Banco de Dados\\Banco\\Controllers\\FuncionarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FuncionarioController.cs",
+              "ToolTip": "C:\\Users\\Amanda_Alves\\Documents\\Faculdade\\3\u00BASemestre\\Laboratorio de Banco de Dados\\Banco\\Controllers\\FuncionarioController.cs",
+              "RelativeToolTip": "Controllers\\FuncionarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T17:26:55.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoanEvaluationService.cs",
+              "DocumentMoniker": "C:\\Users\\Amanda_Alves\\Documents\\Faculdade\\3\u00BASemestre\\Laboratorio de Banco de Dados\\Banco\\Data\\Services\\LoanEvaluationService.cs",
+              "RelativeDocumentMoniker": "Data\\Services\\LoanEvaluationService.cs",
+              "ToolTip": "C:\\Users\\Amanda_Alves\\Documents\\Faculdade\\3\u00BASemestre\\Laboratorio de Banco de Dados\\Banco\\Data\\Services\\LoanEvaluationService.cs",
+              "RelativeToolTip": "Data\\Services\\LoanEvaluationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T17:25:43.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Banco",
+              "DocumentMoniker": "C:\\Users\\Amanda_Alves\\Documents\\Faculdade\\3\u00BASemestre\\Laboratorio de Banco de Dados\\Banco\\Banco.csproj",
+              "RelativeDocumentMoniker": "Banco.csproj",
+              "ToolTip": "C:\\Users\\Amanda_Alves\\Documents\\Faculdade\\3\u00BASemestre\\Laboratorio de Banco de Dados\\Banco\\Banco.csproj",
+              "RelativeToolTip": "Banco.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-14T17:20:53.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Banco.csproj.Backup.tmp",
+              "DocumentMoniker": "C:\\Users\\Amanda_Alves\\Documents\\Faculdade\\3\u00BASemestre\\Laboratorio de Banco de Dados\\Banco\\Banco.csproj.Backup.tmp",
+              "RelativeDocumentMoniker": "Banco.csproj.Backup.tmp",
+              "ToolTip": "C:\\Users\\Amanda_Alves\\Documents\\Faculdade\\3\u00BASemestre\\Laboratorio de Banco de Dados\\Banco\\Banco.csproj.Backup.tmp",
+              "RelativeToolTip": "Banco.csproj.Backup.tmp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-14T17:21:16.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SolicitacaoResultado.cshtml",
+              "DocumentMoniker": "C:\\Users\\Amanda_Alves\\Documents\\Faculdade\\3\u00BASemestre\\Laboratorio de Banco de Dados\\Banco\\Views\\Emprestimo\\SolicitacaoResultado.cshtml",
+              "RelativeDocumentMoniker": "Views\\Emprestimo\\SolicitacaoResultado.cshtml",
+              "ToolTip": "C:\\Users\\Amanda_Alves\\Documents\\Faculdade\\3\u00BASemestre\\Laboratorio de Banco de Dados\\Banco\\Views\\Emprestimo\\SolicitacaoResultado.cshtml",
+              "RelativeToolTip": "Views\\Emprestimo\\SolicitacaoResultado.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T17:11:13.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Solicitar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Amanda_Alves\\Documents\\Faculdade\\3\u00BASemestre\\Laboratorio de Banco de Dados\\Banco\\Views\\Emprestimo\\Solicitar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Emprestimo\\Solicitar.cshtml",
+              "ToolTip": "C:\\Users\\Amanda_Alves\\Documents\\Faculdade\\3\u00BASemestre\\Laboratorio de Banco de Dados\\Banco\\Views\\Emprestimo\\Solicitar.cshtml",
+              "RelativeToolTip": "Views\\Emprestimo\\Solicitar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T17:10:44.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Amanda_Alves\\Documents\\Faculdade\\3\u00BASemestre\\Laboratorio de Banco de Dados\\Banco\\Views\\Cliente\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cliente\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\Amanda_Alves\\Documents\\Faculdade\\3\u00BASemestre\\Laboratorio de Banco de Dados\\Banco\\Views\\Cliente\\Dashboard.cshtml",
+              "RelativeToolTip": "Views\\Cliente\\Dashboard.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T17:09:45.201Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+﻿@model Banco.Models.ViewModels.OtpViewModel
+@{
+    ViewData["Title"] = "Verificação de Duas Etapas";
+}
+
+<div class="row justify-content-center">
+    <div class="col-md-4">
+        <h2 class="text-center">@ViewData["Title"]</h2>
+        <p class="text-center">Insira o código do seu aplicativo de autenticação.</p>
+        <form asp-action="VerifyOtp" method="post">
+            <input type="hidden" asp-for="Email" />
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-floating mb-3">
+                <input asp-for="OtpCode" class="form-control" autocomplete="off" />
+                <label asp-for="OtpCode" class="form-label">Código de 6 dígitos</label>
+                <span asp-validation-for="OtpCode" class="text-danger"></span>
+            </div>
+            <button type="submit" class="w-100 btn btn-lg btn-primary">Verificar</button>
+        </form>
+    </div>
+</div>
